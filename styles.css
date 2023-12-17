@@ -70,3 +70,11 @@ body {
 .hide{
   display: none;
 }
+
+footer{
+  margin-top: 2.1rem;
+  font-weight: bold;
+  color: white;
+  font-size: 12px;
+  opacity: 0.8;
+}
